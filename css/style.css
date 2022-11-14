@@ -45,7 +45,7 @@ h2{
     box-shadow: 0 5px 10px black;
     padding: 10px;
     overflow-y: auto;
-    margin-left: -8rem;
+    /* margin-left: -8rem; */
 
 }
 
