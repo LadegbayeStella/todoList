@@ -46,7 +46,7 @@ h2{
     padding: 10px;
     overflow-y: auto;
     margin-left: -8rem;
-    position: relative;
+
 }
 
 input {
@@ -59,7 +59,7 @@ input {
     color: black;
     padding: 0 10px;
     margin: 15px 0;
-    position: relative;
+
 }
 
 input::placeholder {
